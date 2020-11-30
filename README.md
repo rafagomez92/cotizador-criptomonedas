@@ -1,7 +1,7 @@
 # Aplicación en producción
 
 
-## `[Cotizador de Criptomonedas App](https://wizardly-hugle-e67bb2.netlify.app/).`
+## [`Cotizador de Criptomonedas App`](https://wizardly-hugle-e67bb2.netlify.app/).
 
 ## Getting Started with Create React App
 
